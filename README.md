@@ -1,4 +1,4 @@
-<img src="/Designer.jpeg" align="center" alt="ronalse GitHub README header image" width="auto" height="200px">
+<img src="/Designer.jpeg" align="center" alt="ronalse GitHub README header image" width="500px" height="200px">
 
 # Hola, soy Ronald Reyes 👋
 
@@ -14,7 +14,7 @@ Soy desarrollador de software Full Stack con pasión por la tecnología y el apr
 - <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 - <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 - <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />       
+- <img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />       
 - <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 
 ### Frameworks y Librerías
