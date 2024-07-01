@@ -1,9 +1,7 @@
 <img src="/Banner.jpeg" align="center" alt="ronalse GitHub README header image">
 
-# Hola, soy Ronald Reyes 👋
 
-
-Soy desarrollador de software Full Stack con pasión por la tecnología y el aprendizaje continuo.
+### Soy desarrollador de software Full Stack con pasión por la tecnología y el aprendizaje continuo.
 
 
 ### Lenguajes
