@@ -1,3 +1,5 @@
+<img src="/Designer.jpeg" align="center" alt="ronalse GitHub README header image">
+
 # Hola, soy Ronald Reyes 👋
 
 ## Sobre mí
