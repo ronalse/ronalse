@@ -1,4 +1,4 @@
-<img src="/Designer.jpeg" align="center" alt="ronalse GitHub README header image" width="500px" height="200px">
+<img src="/Banner.jpeg" align="center" alt="ronalse GitHub README header image" width="500px" height="200px">
 
 # Hola, soy Ronald Reyes 👋
 
