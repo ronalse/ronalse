@@ -2,11 +2,9 @@
 
 # Hola, soy Ronald Reyes 👋
 
-## Sobre mí
 
 Soy desarrollador de software Full Stack con pasión por la tecnología y el aprendizaje continuo.
 
-## Tecnologías y Herramientas
 
 ### Lenguajes
 
@@ -36,3 +34,10 @@ Puedes contactarme a través de los siguientes medios:
 
 - [LinkedIn](https://www.linkedin.com/in/ronaldreyes97/)
 - [Correo Electrónico](mailto:ronaldreyes97@hotmail.com)
+
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronalse&theme=nord&show_icons=true&locale=en&layout=compact" alt="ronalse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ronalse&theme=nord&show_icons=true&locale=en" alt="ronalse" /></p>
+
